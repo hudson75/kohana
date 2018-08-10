@@ -22,7 +22,7 @@ else
 <head>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>Kohana Installation</title>
+	<title>Kohana Installation REmove</title>
 
 	<style type="text/css">
 	body { width: 42em; margin: 0 auto; font-family: sans-serif; background: #fff; font-size: 1em; }
