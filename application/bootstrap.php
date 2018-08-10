@@ -149,6 +149,7 @@ Kohana::modules(array(
 		'controller' => 'welcome',
 		'action'     => 'index',
 	));
+123
 */
 Route::set('admin', '<directory>(/<controller>(/<action>(/<id>)))', array('directory' => '(pc)'))
 ->defaults(array(
