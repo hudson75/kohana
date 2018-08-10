@@ -14,7 +14,7 @@ class Controller_Pc_Tour extends Controller {
 //	    $view->user = $this->user;
 	    $config = Kohana::$config->load('myconfig');
 	    $options = $config->get('options') ;
-	    print_r($options);
+//	    print_r($options);
 	    // The view will have $places and $user variables
 	    $this->response->body($view);
 	}
